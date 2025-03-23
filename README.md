@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Martin👋
+
+## Fintech porfolio
+- [ ] TODO: add projects to github
+
+## Deep learning exploration
+| 📌 Project | 🔍 Description | 🔗 Repo |
+|------------|--------------|---------|
+| **FruityGNN** | Predict if a molecule smells fruity using a graph neural network | [GitHub]([https://github.com/yourusername/fintech-stock-prediction](https://github.com/mdmetodiev/fruityGNN)) |
+
+# PhD projects
+- [ ] TODO: add projects to github
 
 <!--
 **mdmetodiev/mdmetodiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
