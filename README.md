@@ -6,7 +6,7 @@
 ## Deep learning exploration
 | 📌 Project | 🔍 Description | 🔗 Repo |
 |------------|--------------|---------|
-| **FruityGNN** | Predict if a molecule smells fruity using a graph neural network | [GitHub]([https://github.com/yourusername/fintech-stock-prediction](https://github.com/mdmetodiev/fruityGNN)) |
+| **FruityGNN** | Predict if a molecule smells fruity using a graph neural network | [GitHub](https://github.com/mdmetodiev/fruityGNN)) |
 
 # PhD projects
 - [ ] TODO: add projects to github
