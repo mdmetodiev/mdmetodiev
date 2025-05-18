@@ -1,5 +1,7 @@
 ## Hi there, I'm Martin👋
 
+I enjoy data science, statistics and modelling. This is my portfolio of personal projects, spanning a range of topics from AI to financial data.
+
 ## Fintech
 Here I have some financial models, trading algorithms, etc
 
