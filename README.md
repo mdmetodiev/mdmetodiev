@@ -7,7 +7,7 @@ Here I have some financial models, trading algorithms, etc
 
 | 📌 Project | 🔍 Description | 🔗 Repo |
 |------------|--------------|---------|
-| **GeomPrice** | Using a random forest regressor to predict price change over next N hours | [GitHub](https://github.com/mdmetodiev/random_forest_price_forecasting) |
+| **RF predict** | Using a random forest regressor to predict price change over next N hours | [GitHub](https://github.com/mdmetodiev/random_forest_price_forecasting) |
 
 ## Deep learning exploration
 | 📌 Project | 🔍 Description | 🔗 Repo |
