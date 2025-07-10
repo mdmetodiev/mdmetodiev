@@ -2,12 +2,12 @@
 
 I enjoy data science, statistics and modelling. This is my portfolio of personal projects, spanning a range of topics from AI to financial data.
 
-## Fintech
+## Time series
 Here I have some financial models, trading algorithms, etc
 
 | 📌 Project | 🔍 Description | 🔗 Repo |
 |------------|--------------|---------|
-| **RF predict** | Using a random forest regressor to predict price change over next N hours | [GitHub](https://github.com/mdmetodiev/random_forest_price_forecasting) |
+| **Signal generation research** | Developing a model that predicts log returns. Monte-Carlo permutation tests | [GitHub](https://github.com/mdmetodiev/signal_generation_research) |
 
 ## Deep learning exploration
 | 📌 Project | 🔍 Description | 🔗 Repo |
